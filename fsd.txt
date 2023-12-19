@@ -1,1 +1,6 @@
-Hi Every Today we Learn about Git-github
+echo #"git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/praveenmuthuraman/FSD-demo.git
+git push -u origin">> README
